@@ -18,7 +18,7 @@ namespace ContosoUniversity.Migrations
         {
             migrationBuilder.DropColumn(
                 name: "RowVersion",
-                table: "Department");
+                table: "Department"); 
         }
     }
 }
